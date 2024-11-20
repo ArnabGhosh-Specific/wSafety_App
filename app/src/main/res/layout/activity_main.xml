@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="12dp"
-        android:background="#0F9D58"
+        android:background="#FF000000"
         android:text="@string/add_emergency_contact"
         android:textColor="@color/white" />
 
